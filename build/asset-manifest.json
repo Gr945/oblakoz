@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oblakoz/static/css/main.01678c76.css",
+    "main.js": "/oblakoz/static/js/main.123765f9.js",
+    "index.html": "/oblakoz/index.html",
+    "main.01678c76.css.map": "/oblakoz/static/css/main.01678c76.css.map",
+    "main.123765f9.js.map": "/oblakoz/static/js/main.123765f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01678c76.css",
+    "static/js/main.123765f9.js"
+  ]
+}
